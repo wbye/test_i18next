@@ -4,10 +4,7 @@
   },
   "nav": {
     "home": "Home",
-    "page1": {
-      "content1": "content1",
-      "content2": "content2"
-    },
+    "page1":"Page One",
     "page2": "Page Two"
   }
 }

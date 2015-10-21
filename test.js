@@ -2,6 +2,7 @@
  * Created by wbye on 2015/10/14.
  */
 
+//resGetPath: 'locales/__lng__/__ns__.json
 i18n.init({ detectLngQS: 'lang',cookieName:'lang',preload:['test1','test2'],lngWhitelist:['en','cn'] },function () {
     $(".nav").i18n();
 });
